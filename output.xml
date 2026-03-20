@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 7.4.2 (Python 3.13.1 on win32)" generated="2026-03-18T17:21:36.357115" rpa="false" schemaversion="5">
+<robot generator="Robot 7.4.2 (Python 3.13.1 on win32)" generated="2026-03-20T09:03:09.524263" rpa="false" schemaversion="5">
 <suite id="s1" name="Tests" source="C:\Users\HP\OneDrive\Desktop\cicd\tests">
 <suite id="s1-s1" name="Hello World" source="C:\Users\HP\OneDrive\Desktop\cicd\tests\hello_world.robot">
 <test id="s1-s1-t1" name="Log Hello World" line="5">
 <kw name="Log" owner="BuiltIn">
-<msg time="2026-03-18T17:21:36.393261" level="INFO">Hello World</msg>
+<msg time="2026-03-20T09:03:09.556675" level="INFO">Hello World</msg>
 <arg>Hello World</arg>
 <arg>console=True</arg>
 <doc>Logs the given message with the given level.</doc>
-<status status="PASS" start="2026-03-18T17:21:36.392846" elapsed="0.000630"/>
+<status status="PASS" start="2026-03-20T09:03:09.556169" elapsed="0.000594"/>
 </kw>
-<status status="PASS" start="2026-03-18T17:21:36.391899" elapsed="0.001850"/>
+<status status="PASS" start="2026-03-20T09:03:09.555700" elapsed="0.001706"/>
 </test>
 <doc>Hello World Test Suite</doc>
-<status status="PASS" start="2026-03-18T17:21:36.390534" elapsed="0.003785"/>
+<status status="PASS" start="2026-03-20T09:03:09.554560" elapsed="0.003282"/>
 </suite>
-<status status="PASS" start="2026-03-18T17:21:36.358252" elapsed="0.036792"/>
+<status status="PASS" start="2026-03-20T09:03:09.525347" elapsed="0.032783"/>
 </suite>
 <statistics>
 <total>
